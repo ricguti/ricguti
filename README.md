@@ -1,4 +1,6 @@
-### Hi there 👋
+### ¡Hola! 👋 😄 💻
+
+Welcome to my GitHub profile. Here you can find some of the personal projects I've worked on.
 
 <!--
 **ricguti/ricguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
